@@ -34,6 +34,7 @@ namespace Calculator
 
     public class Calculator
     {
+        //test comment
         internal object Add(double x, double y)
         {
             throw new NotImplementedException();
